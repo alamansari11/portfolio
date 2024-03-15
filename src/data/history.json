@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Aloha Technology",
+    "startDate": "Oct, 2022",
+    "endDate": "Oct 2023",
+    "experiences": [
+      "Developed Flask APIs",
+      "Implemented authentication",
+      "Facilitated Flask to Node.js/Express transition"
+      ],
+    "imageSrc": "history/Aloha.png"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "ATG",
+    "startDate": "Jan, 2022",
+    "endDate": "March, 2022",
+    "experiences": ["Developed responsive user interfaces", "Contributed new features and enhancements"],
+    "imageSrc": "history/atg.svg"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Deltiin India Tech",
+    "startDate": "June, 2021",
+    "endDate": "July, 2021",
+    "experiences": [
+      "Learned and experienced Web Development",
+      "Created a demo for Deltiin website"
+    ],
+    "imageSrc": "history/deltiin.png"
+  }
+]

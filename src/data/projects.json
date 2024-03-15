@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Nike",
+    "imageSrc": "projects/nikeimg.png",
+    "description": "A nike website to showcase the nike's products",
+    "skills": ["React", "Tailwind","UI"],
+    "demo": "https://nike-rose-alpha.vercel.app",
+    "source": "https://github.com/alamansari11/nike"
+  },
+  {
+    "title": "Todo",
+    "imageSrc": "projects/todo.png",
+    "description": "An todo app with authentication clean UI",
+    "skills": ["React", "Express", "Node", "Mongo"],
+    "demo": "https://todo-nu-lovat-97.vercel.app",
+    "source": "https://github.com/alamansari11/todo"
+  },
+  {
+    "title": "Foody",
+    "imageSrc": "projects/foody.png",
+    "description": "An online food ordering service website",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://alamansari11.github.io/foody",
+    "source": "https://github.com/alamansari11/foody"
+  }
+]
